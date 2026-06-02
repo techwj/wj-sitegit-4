@@ -1,0 +1,88 @@
+# Validation Report - spontaneous-trip-guide
+
+Generated: 2026-06-02T15:38:19.929994
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Spontaneous Trip Guide
+- ✓ Article word count OK: Beginner Spontaneous Trip Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Spontaneous Trip Guide
+- ✓ Article word count OK: Beginner Spontaneous Trip Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Spontaneous Trip Guide
+- ✓ Article word count OK: Beginner Spontaneous Trip Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Spontaneous Trip Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Spontaneous Trip Guide
+- ✓ Article word count OK: Beginner Spontaneous Trip Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Spontaneous Trip Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Spontaneous Trip Guide
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Spontaneous Trip Guide
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Spontaneous Trip Guide
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Spontaneous Trip Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Spontaneous Trip Guide
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Spontaneous Trip Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Spontaneous Trip Guide Tips
+- ✓ Article word count OK: Spontaneous Trip Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Spontaneous Trip Guide Tips
+- ✓ Article word count OK: Spontaneous Trip Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Spontaneous Trip Guide Tips
+- ✓ Article word count OK: Spontaneous Trip Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Spontaneous Trip Guide Tips
+- ✓ Article word count OK: Common Mistakes in Spontaneous Trip Guide Tips
+- ✓ Article word count OK: Spontaneous Trip Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Spontaneous Trip Guide History
+- ✓ Article word count OK: Spontaneous Trip Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Spontaneous Trip Guide History
+- ✓ Article word count OK: Spontaneous Trip Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Spontaneous Trip Guide History
+- ✓ Article word count OK: Spontaneous Trip Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Spontaneous Trip Guide History
+- ✓ Article word count OK: Common Mistakes in Spontaneous Trip Guide History
+- ✓ Article word count OK: Spontaneous Trip Guide History for Beginners
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Spontaneous Trip Guide
+- ✓ Article word count OK: Trending Spontaneous Trip Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Spontaneous Trip Guide
+- ✓ Article word count OK: Trending Spontaneous Trip Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Spontaneous Trip Guide
+- ✓ Article word count OK: Trending Spontaneous Trip Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Spontaneous Trip Guide
+- ✓ Article word count OK: Common Mistakes in Trending Spontaneous Trip Guide
+- ✓ Article word count OK: Trending Spontaneous Trip Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Spontaneous Trip Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Spontaneous Trip Guide Tutorials
+- ✓ Article word count OK: Spontaneous Trip Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Spontaneous Trip Guide Tutorials
+- ✓ Article word count OK: Spontaneous Trip Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Spontaneous Trip Guide Tutorials
+- ✓ Article word count OK: Spontaneous Trip Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Spontaneous Trip Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Spontaneous Trip Guide Tutorials
+- ✓ Article word count OK: Spontaneous Trip Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Spontaneous Trip Guide Tutorials Techniques
+- ✓ Ad configuration validated

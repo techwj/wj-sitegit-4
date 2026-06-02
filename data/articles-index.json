@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-spontaneous-trip-guide",
+      "title": "The Ultimate Guide to Beginner Spontaneous Trip Guide",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867335",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-spontaneous-trip-guide-everything-you-need-to-know",
+      "title": "Beginner Spontaneous Trip Guide: Everything You Need to Know",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867484",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Beginner Spontaneous Trip Guide: Everything You Need to Know",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-spontaneous-trip-guide",
+      "title": "Understanding Beginner Spontaneous Trip Guide",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867573",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Understanding Beginner Spontaneous Trip Guide",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-spontaneous-trip-guide-tips-and-best-practices",
+      "title": "Beginner Spontaneous Trip Guide Tips and Best Practices",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867654",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Beginner Spontaneous Trip Guide Tips and Best Practices",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-spontaneous-trip-guide",
+      "title": "The History of Beginner Spontaneous Trip Guide",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867743",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: The History of Beginner Spontaneous Trip Guide",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-spontaneous-trip-guide-in-2026-current-trends",
+      "title": "Beginner Spontaneous Trip Guide in 2026: Current Trends",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867825",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Beginner Spontaneous Trip Guide in 2026: Current Trends",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-spontaneous-trip-guide",
+      "title": "Future of Beginner Spontaneous Trip Guide",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867904",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Future of Beginner Spontaneous Trip Guide",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-spontaneous-trip-guide",
+      "title": "Common Mistakes in Beginner Spontaneous Trip Guide",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.867988",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Common Mistakes in Beginner Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-spontaneous-trip-guide-for-beginners",
+      "title": "Beginner Spontaneous Trip Guide for Beginners",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.868068",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Beginner Spontaneous Trip Guide for Beginners",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-spontaneous-trip-guide-techniques",
+      "title": "Advanced Beginner Spontaneous Trip Guide Techniques",
+      "category": "beginner-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.868144",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Advanced Beginner Spontaneous Trip Guide Techniques",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-spontaneous-trip-guide",
+      "title": "The Ultimate Guide to Advanced Spontaneous Trip Guide",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.868842",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-spontaneous-trip-guide-everything-you-need-to-know",
+      "title": "Advanced Spontaneous Trip Guide: Everything You Need to Know",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.868918",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide: Everything You Need to Know",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-spontaneous-trip-guide",
+      "title": "Understanding Advanced Spontaneous Trip Guide",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869001",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Understanding Advanced Spontaneous Trip Guide",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-spontaneous-trip-guide-tips-and-best-practices",
+      "title": "Advanced Spontaneous Trip Guide Tips and Best Practices",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869077",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide Tips and Best Practices",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-spontaneous-trip-guide",
+      "title": "The History of Advanced Spontaneous Trip Guide",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869152",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: The History of Advanced Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-spontaneous-trip-guide-in-2026-current-trends",
+      "title": "Advanced Spontaneous Trip Guide in 2026: Current Trends",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869227",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide in 2026: Current Trends",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-spontaneous-trip-guide",
+      "title": "Future of Advanced Spontaneous Trip Guide",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869308",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Future of Advanced Spontaneous Trip Guide",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-spontaneous-trip-guide",
+      "title": "Common Mistakes in Advanced Spontaneous Trip Guide",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869383",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Common Mistakes in Advanced Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-spontaneous-trip-guide-for-beginners",
+      "title": "Advanced Spontaneous Trip Guide for Beginners",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869458",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide for Beginners",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-spontaneous-trip-guide-techniques",
+      "title": "Advanced Advanced Spontaneous Trip Guide Techniques",
+      "category": "advanced-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.869534",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Advanced Advanced Spontaneous Trip Guide Techniques",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-spontaneous-trip-guide-tips",
+      "title": "The Ultimate Guide to Spontaneous Trip Guide Tips",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870207",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: The Ultimate Guide to Spontaneous Trip Guide Tips",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 38,
+      "slug": "spontaneous-trip-guide-tips-everything-you-need-to-know",
+      "title": "Spontaneous Trip Guide Tips: Everything You Need to Know",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870283",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Spontaneous Trip Guide Tips: Everything You Need to Know",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-spontaneous-trip-guide-tips",
+      "title": "Understanding Spontaneous Trip Guide Tips",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870359",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Understanding Spontaneous Trip Guide Tips",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 40,
+      "slug": "spontaneous-trip-guide-tips-tips-and-best-practices",
+      "title": "Spontaneous Trip Guide Tips Tips and Best Practices",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870426",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Spontaneous Trip Guide Tips Tips and Best Practices",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-spontaneous-trip-guide-tips",
+      "title": "The History of Spontaneous Trip Guide Tips",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870494",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: The History of Spontaneous Trip Guide Tips",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 42,
+      "slug": "spontaneous-trip-guide-tips-in-2026-current-trends",
+      "title": "Spontaneous Trip Guide Tips in 2026: Current Trends",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870561",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Spontaneous Trip Guide Tips in 2026: Current Trends",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-spontaneous-trip-guide-tips",
+      "title": "Future of Spontaneous Trip Guide Tips",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870625",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Future of Spontaneous Trip Guide Tips",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-spontaneous-trip-guide-tips",
+      "title": "Common Mistakes in Spontaneous Trip Guide Tips",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870688",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Common Mistakes in Spontaneous Trip Guide Tips",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 45,
+      "slug": "spontaneous-trip-guide-tips-for-beginners",
+      "title": "Spontaneous Trip Guide Tips for Beginners",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870768",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Spontaneous Trip Guide Tips for Beginners",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-spontaneous-trip-guide-tips-techniques",
+      "title": "Advanced Spontaneous Trip Guide Tips Techniques",
+      "category": "tips-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.870833",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide Tips Techniques",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-spontaneous-trip-guide-history",
+      "title": "The Ultimate Guide to Spontaneous Trip Guide History",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871400",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: The Ultimate Guide to Spontaneous Trip Guide History",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 56,
+      "slug": "spontaneous-trip-guide-history-everything-you-need-to-know",
+      "title": "Spontaneous Trip Guide History: Everything You Need to Know",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871464",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Spontaneous Trip Guide History: Everything You Need to Know",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-spontaneous-trip-guide-history",
+      "title": "Understanding Spontaneous Trip Guide History",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871533",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Understanding Spontaneous Trip Guide History",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 58,
+      "slug": "spontaneous-trip-guide-history-tips-and-best-practices",
+      "title": "Spontaneous Trip Guide History Tips and Best Practices",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871597",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Spontaneous Trip Guide History Tips and Best Practices",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-spontaneous-trip-guide-history",
+      "title": "The History of Spontaneous Trip Guide History",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871660",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: The History of Spontaneous Trip Guide History",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 60,
+      "slug": "spontaneous-trip-guide-history-in-2026-current-trends",
+      "title": "Spontaneous Trip Guide History in 2026: Current Trends",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871723",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Spontaneous Trip Guide History in 2026: Current Trends",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-spontaneous-trip-guide-history",
+      "title": "Future of Spontaneous Trip Guide History",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871789",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Future of Spontaneous Trip Guide History",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-spontaneous-trip-guide-history",
+      "title": "Common Mistakes in Spontaneous Trip Guide History",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871855",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Common Mistakes in Spontaneous Trip Guide History",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 63,
+      "slug": "spontaneous-trip-guide-history-for-beginners",
+      "title": "Spontaneous Trip Guide History for Beginners",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871919",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Spontaneous Trip Guide History for Beginners",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-spontaneous-trip-guide-history-techniques",
+      "title": "Advanced Spontaneous Trip Guide History Techniques",
+      "category": "history-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.871982",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide History Techniques",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-spontaneous-trip-guide",
+      "title": "The Ultimate Guide to Trending Spontaneous Trip Guide",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873014",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: The Ultimate Guide to Trending Spontaneous Trip Guide",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-spontaneous-trip-guide-everything-you-need-to-know",
+      "title": "Trending Spontaneous Trip Guide: Everything You Need to Know",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873085",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Trending Spontaneous Trip Guide: Everything You Need to Know",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-spontaneous-trip-guide",
+      "title": "Understanding Trending Spontaneous Trip Guide",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873166",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Understanding Trending Spontaneous Trip Guide",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-spontaneous-trip-guide-tips-and-best-practices",
+      "title": "Trending Spontaneous Trip Guide Tips and Best Practices",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873238",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Trending Spontaneous Trip Guide Tips and Best Practices",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-spontaneous-trip-guide",
+      "title": "The History of Trending Spontaneous Trip Guide",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873316",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: The History of Trending Spontaneous Trip Guide",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-spontaneous-trip-guide-in-2026-current-trends",
+      "title": "Trending Spontaneous Trip Guide in 2026: Current Trends",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873388",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Trending Spontaneous Trip Guide in 2026: Current Trends",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-spontaneous-trip-guide",
+      "title": "Future of Trending Spontaneous Trip Guide",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873457",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Future of Trending Spontaneous Trip Guide",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-spontaneous-trip-guide",
+      "title": "Common Mistakes in Trending Spontaneous Trip Guide",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873524",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Common Mistakes in Trending Spontaneous Trip Guide",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-spontaneous-trip-guide-for-beginners",
+      "title": "Trending Spontaneous Trip Guide for Beginners",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873594",
+      "image": {
+        "id": "8f3145faf70f3914d6d0aa22388e78fddeaab7c01cd132ef619f713d4439a1af",
+        "url": "https://picsum.photos/935/406?random=225",
+        "alt": "Featured image for: Trending Spontaneous Trip Guide for Beginners",
+        "width": 935,
+        "height": 406
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-spontaneous-trip-guide-techniques",
+      "title": "Advanced Trending Spontaneous Trip Guide Techniques",
+      "category": "trending-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.873660",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Advanced Trending Spontaneous Trip Guide Techniques",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-spontaneous-trip-guide-tutorials",
+      "title": "The Ultimate Guide to Spontaneous Trip Guide Tutorials",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874259",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: The Ultimate Guide to Spontaneous Trip Guide Tutorials",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 92,
+      "slug": "spontaneous-trip-guide-tutorials-everything-you-need-to-know",
+      "title": "Spontaneous Trip Guide Tutorials: Everything You Need to Know",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874326",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Spontaneous Trip Guide Tutorials: Everything You Need to Know",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-spontaneous-trip-guide-tutorials",
+      "title": "Understanding Spontaneous Trip Guide Tutorials",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874391",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Understanding Spontaneous Trip Guide Tutorials",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 94,
+      "slug": "spontaneous-trip-guide-tutorials-tips-and-best-practices",
+      "title": "Spontaneous Trip Guide Tutorials Tips and Best Practices",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874460",
+      "image": {
+        "id": "7a541031ad8ca93a7677863df0c7e75b597a22d79ca004c561c0f6967a4bea7c",
+        "url": "https://picsum.photos/1197/545?random=637",
+        "alt": "Featured image for: Spontaneous Trip Guide Tutorials Tips and Best Practices",
+        "width": 1197,
+        "height": 545
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-spontaneous-trip-guide-tutorials",
+      "title": "The History of Spontaneous Trip Guide Tutorials",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874519",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: The History of Spontaneous Trip Guide Tutorials",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 96,
+      "slug": "spontaneous-trip-guide-tutorials-in-2026-current-trends",
+      "title": "Spontaneous Trip Guide Tutorials in 2026: Current Trends",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874580",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Spontaneous Trip Guide Tutorials in 2026: Current Trends",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-spontaneous-trip-guide-tutorials",
+      "title": "Future of Spontaneous Trip Guide Tutorials",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874639",
+      "image": {
+        "id": "77212ff992d8401b04da9d60258d3c5f9d057cde0aa1f1a8c85dc9ec96310d33",
+        "url": "https://picsum.photos/1173/449?random=349",
+        "alt": "Featured image for: Future of Spontaneous Trip Guide Tutorials",
+        "width": 1173,
+        "height": 449
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-spontaneous-trip-guide-tutorials",
+      "title": "Common Mistakes in Spontaneous Trip Guide Tutorials",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874697",
+      "image": {
+        "id": "7aba55c38632033b9b278549b3000dcab8205d45154935deec9969506811901a",
+        "url": "https://picsum.photos/1031/569?random=241",
+        "alt": "Featured image for: Common Mistakes in Spontaneous Trip Guide Tutorials",
+        "width": 1031,
+        "height": 569
+      }
+    },
+    {
+      "id": 99,
+      "slug": "spontaneous-trip-guide-tutorials-for-beginners",
+      "title": "Spontaneous Trip Guide Tutorials for Beginners",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874756",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Spontaneous Trip Guide Tutorials for Beginners",
+        "width": 1195,
+        "height": 520
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-spontaneous-trip-guide-tutorials-techniques",
+      "title": "Advanced Spontaneous Trip Guide Tutorials Techniques",
+      "category": "tutorials-spontaneous-trip-guide",
+      "created_at": "2026-06-02T15:38:19.874814",
+      "image": {
+        "id": "6a451421947480f8934a801dcfbb25239fadfa9c2ea8ca68b151f8f5c3fb24fb",
+        "url": "https://picsum.photos/1195/520?random=948",
+        "alt": "Featured image for: Advanced Spontaneous Trip Guide Tutorials Techniques",
+        "width": 1195,
+        "height": 520
+      }
+    }
+  ],
+  "categories": [
+    "beginner-spontaneous-trip-guide",
+    "advanced-spontaneous-trip-guide",
+    "tips-spontaneous-trip-guide",
+    "history-spontaneous-trip-guide",
+    "trending-spontaneous-trip-guide",
+    "tutorials-spontaneous-trip-guide"
+  ]
+}
